@@ -15,3 +15,6 @@ Putpose text
 Deployment text
 
 ## How to contribute
+
+### Copyright
+2020. Luka
