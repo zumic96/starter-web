@@ -16,5 +16,7 @@ Deployment text
 
 ## How to contribute
 
+Please for this repo and issue PRs for review
+
 ### Copyright
 2020. Luka
