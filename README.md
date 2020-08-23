@@ -20,4 +20,4 @@ Deployment text
 Please for this repo and issue PRs for review
 
 ### Copyright
-2020. Luka
+2020. Luka. All rights reserved.
